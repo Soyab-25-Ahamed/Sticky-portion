@@ -1,0 +1,34 @@
+body{
+    background-color: rosybrown;
+}
+#sticker{
+   color:#600E06 ;
+}
+.stick {
+    position:fixed;
+	top:0px;
+	z-index:999999999999;
+    background:#EDCDD2 ;
+    color: #32171C  !important;
+}
+.soyab{
+height: 50px;
+}
+#social_area{
+    list-style-type: none;
+    padding: 10px;
+    position: fixed;
+    right: 0%;
+    top: 30%;
+    background:#ddd;
+	border-radius:25px 0 0 25px;
+}
+#social_area li{
+	float:none;
+	
+}
+#social_area li img{
+	width:64px;
+	height:64px;
+	
+}
