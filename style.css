@@ -32,3 +32,29 @@ height: 50px;
 	height:64px;
 	
 }
+#new ul{
+    list-style-type:none;
+    margin: 200px;
+}
+#new ul li a{
+    color: #fff;
+    background-color: #000;
+    display:inline-block;
+    padding: 10px 60px;
+    margin: 5px 0px;
+    text-decoration: none;
+}
+#new ul li a:hover{
+    background-color: #F10D37;
+}
+#new ul li a:active{
+    background-color:#32171C;
+}
+#new ul li a:focus{
+    background-color: tomato;
+}
+#new ul li a:visited{
+    background-color: #7ECF74 ;
+}
+
+
